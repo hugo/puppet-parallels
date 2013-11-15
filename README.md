@@ -1,4 +1,4 @@
-# Parallels Desktop for Mac Puppet module for Boxen
+# Parallels Puppet module for Boxen
 
 [![Build Status](https://travis-ci.org/boxen/puppet-template.png?branch=master)](https://travis-ci.org/thisishugo/puppet-parallels)
 
