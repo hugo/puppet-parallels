@@ -1,6 +1,6 @@
-# Parallels Puppet module for Boxen
+# Parallels Puppet Module for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-template.png?branch=master)](https://travis-ci.org/thisishugo/puppet-parallels)
+[![Build Status](https://travis-ci.org/boxen/puppet-template.svg?branch=master)](https://travis-ci.org/boxen/puppet-parallels)
 
 Installs [Parallels](parallels.com) for Mac OS X.
 
